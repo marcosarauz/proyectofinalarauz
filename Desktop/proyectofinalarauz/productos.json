@@ -1,0 +1,29 @@
+[
+    {
+        "categoria": "fantasia",
+        "ranking": 1,
+        "pelicula mas vista": "deedpol"
+    },
+    {
+        "categoria": "accion",
+        "ranking": 2,
+        "pelicula mas vista": "bad boys"
+    },
+    {
+        "categoria": "romance",
+        "ranking": 3,
+        "pelicula mas vista": "romper el circulo"
+    },
+    {
+        "categoria": "comedia",
+        "ranking": 4,
+        "pelicula mas vista": "un espia y medio"
+    },
+    {
+        "categoria": "terror",
+        "ranking": 5,
+        "pelicula mas vista": "el conjuro"
+        
+    }
+    
+]
