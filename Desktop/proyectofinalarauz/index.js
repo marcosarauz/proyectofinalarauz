@@ -16,6 +16,10 @@ const links = [
     {
         link: "categories",
         name: "categorias"
+    },
+    {
+        link:"comprar",
+        name:"compras"
     }
 
 ]

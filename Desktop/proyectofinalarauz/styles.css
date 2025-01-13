@@ -135,3 +135,41 @@ a {
     background-color: black;
     padding: 3%;
 }
+
+.separar{
+    margin: 10%;
+}
+
+#lista-carrito{
+    margin-top: 120%;
+}
+
+.info-card{
+    margin: 5%;
+}
+
+.encabezado{
+    margin: 5%;
+    background-color: black;
+    color: #ccc;
+    display: inline-block;
+    padding: 1%;
+}
+
+#vaciar-carrito{
+    background-color: black;
+    color: blue;
+    font-size: 25px;
+}
+
+.imagen-peli{
+    max-width: 80px;
+    max-height: 80px;
+}
+
+.agregar-carrito{
+    background-color: black;
+    color: red;
+}
+
+

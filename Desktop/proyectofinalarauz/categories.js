@@ -22,6 +22,10 @@ const links = [
     {
         link: "categorias",
         name: "categorias"
+    },
+    {
+        link:"comprar",
+        name:"compras"
     }
 
 ]
@@ -73,7 +77,7 @@ function imprimirpeliculas(peliculas){
         <h2>${pelicula.categoria}</h2>
         <h3>${pelicula.ranking}</h3>
         <h3>${pelicula.peliculamasvista}</h3>
-        <button id="${pelicula.categoria}${pelicula.id}">AGREGAR</button>
+        <button id="${pelicula.categoria}${pelicula.id}"></button>
         `
         contenedor.appendChild(card)
 
